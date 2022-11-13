@@ -1,0 +1,5 @@
+for auto written auto erase words go through below url
+  "https://www.npmjs.com/package/react-typed"
+
+
+  
