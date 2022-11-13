@@ -2,4 +2,5 @@ for auto written auto erase words go through below url
   "https://www.npmjs.com/package/react-typed"
 
 
-  
+for "framer motion" go through documation through below url
+   "https://www.framer.com/docs/"

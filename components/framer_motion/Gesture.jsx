@@ -6,7 +6,7 @@ const KeyFrame = () => {
     <>
       <div className="container mx-auto my-10 bg-red-300">
         <div className="flex justify-center my-5">
-          <p>Hover effect on Button</p>
+          <p>Hover effect on Button ( this can be also applicable on cards )</p>
         </div>
         <div className="flex justify-center">
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
